@@ -103,17 +103,17 @@ A inobservância dessas regras incorrerá em descontos nas notas das avaliaçõe
 
 * Bibliografia Básica
 
-* Fogler, S. H., *Essentials of Chemical Reaction Engineering*, Prentice Hall, 1st edition, **2011**.
+  * Fogler, S. H., *Essentials of Chemical Reaction Engineering*, Prentice Hall, 1st edition, **2011**.
 
-* Gilbert F. Froment, Kenneth B. Bischoff, Juray de Wilde, *Chemical Reactor Analysis and Design*, Wiley, 3rd edição, **2010**.
+  * Gilbert F. Froment, Kenneth B. Bischoff, Juray de Wilde, *Chemical Reactor Analysis and Design*, Wiley, 3rd edição, **2010**.
 
-* Levenspiel, O., *Chemical Reaction Engineering*, John Wiley & Sons, Inc. **1998**.
+  * Levenspiel, O., *Chemical Reaction Engineering*, John Wiley & Sons, Inc. **1998**.
 
 * Bibliografia Complementar
 
-* Carberry, J. J., *Chemical and Catalytic Reaction Engineering*. Dover Publications. **2001**.
+  * Carberry, J. J., *Chemical and Catalytic Reaction Engineering*. Dover Publications. **2001**.
 
-* Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford University Press. **1997**.
+  * Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford University Press. **1997**.
 
 Copyright &copy; 2023 Alexandre Umpierre
 
