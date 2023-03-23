@@ -39,7 +39,7 @@ A inobservância dessas regras incorrerá em descontos nas notas das avaliaçõe
 
 * *T*<sub>3</sub> - 01/06/2023
 
-* *T*<sub>4</sub> - 27/07/2023
+* *T*<sub>4</sub> - 27/06/2023
 
 ### Lista de Tópicos
 
