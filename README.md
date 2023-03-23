@@ -25,7 +25,7 @@ As avaliações devem obrigatoriamente ser elaboradas sobre o [template_ERQ.doc]
 
 * ERQ_T01_20231_P1_20230509_matriculasonumeros.pdf
 
-A inobservância dessas regras incorrerá em descontos nas notas das avaliações.
+A inobservância dessas regras poderá incorrer em descontos nas notas das avaliações.
 
 ### Datas das Avaliações
 
