@@ -105,7 +105,7 @@ A inobservância dessas regras poderá incorrer em descontos nas notas das avali
 
   * Fogler, S. H., *Essentials of Chemical Reaction Engineering*, Prentice Hall, 1st edition, **2011**.
 
-  * Gilbert F. Froment, Kenneth B. Bischoff, Juray de Wilde, *Chemical Reactor Analysis and Design*, Wiley, 3rd edição, **2010**.
+  * Gilbert F. Froment, Kenneth B. Bischoff, Juray de Wilde, *Chemical Reactor Analysis and Design*, Wiley, 3rd edition, **2010**.
 
   * Levenspiel, O., *Chemical Reaction Engineering*, John Wiley & Sons, Inc. **1998**.
 
