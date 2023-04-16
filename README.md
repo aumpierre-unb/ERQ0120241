@@ -15,7 +15,8 @@
 | **Datas das Avaliações** | *T*<sub>1</sub> - 13/04/2023 <br> *T*<sub>2</sub> - 02/05/2023 <br> *HW*<sub>1</sub> - 11/05/2023 <br> *T*<sub>3</sub> - 01/06/2023 <br> *T*<sub>4</sub> - 27/06/2023 <br> *HW*<sub>2</sub> - 06/07/2023 |
 | **Bibliografia Básica** | Fogler, S. H., *Essentials of Chemical Reaction Engineering*, Prentice Hall, **2011**. <br> Gilbert F. Froment, Kenneth B. Bischoff, Juray de Wilde, *Chemical Reactor Analysis and Design*, Wiley, 3rd edition, **2010**. <br> Levenspiel, O., *Chemical Reaction Engineering*, John Wiley & Sons, Inc. **1998**. |
 | **Bibliografia Complementar** | Carberry, J. J., *Chemical and Catalytic Reaction Engineering*. Dover Publications. **2001**. <br> Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford University Press. **1997**. |
-| **Exercícios Propostos** | [exercicios propostos 1.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/exercicios_propostos_1.pdf) (07/04/2023) |
+| **Exercícios Propostos** | [exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/exercicios_propostos_1.pdf) (07/04/2023) |
+| **Estudos Dirigidos* | [estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/estudo_dirigido_1.pdf) (1604/2023) |
 
 Copyright &copy; 2023 Alexandre Umpierre
 
