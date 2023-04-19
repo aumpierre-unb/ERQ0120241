@@ -6,7 +6,7 @@
 | :--- | :--- |
 | **Professor** | Alexandre Umpierre <br> Sala IQD B1 53/3 <br> email <aumpierre@unb.br> |
 | **Período letivo** | 2023/1 <br> De 28/03/2023 a 25/07/2023 |
-| **Horário e local das aulas** | 35M34, BSA S B1 19/13 |
+| **Horário e local das aulas** | 35M34, BSA S BT 41/13 |
 | **Atendimento aos alunos** | O atendimento deve se presencial durante as aulas ou mediante agendamento, ou por email. |
 | **Objetivo** | Apresentar os fundamentos da engenharia de reações químicas, com ênfase em elementos de cinética química, influência de variáveis de processo sobre taxa de reação, balanços de massa e energia, reatores ideais e desvios de idealidade. |
 | **Metodologia** | Aulas expositivas com exemplos e exercícios. <br> **Não são autorizados registros fotográficos do conteúdo ministrado das aulas.** |
