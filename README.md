@@ -17,7 +17,7 @@
 | **Bibliografia Complementar** | Carberry, J. J., *Chemical and Catalytic Reaction Engineering*. Dover Publications. **2001**. <br> Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford University Press. **1997**. |
 | **Exercícios Propostos** | [exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/exercicios_propostos_1.pdf) (07/04/2023) <br> [exercicios_propostos_2.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/exercicios_propostos_2.pdf) (29/04/2023) <br> [exercicios_propostos_3.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/exercicios_propostos_3.pdf) (26/06/2023) |
 | **Estudos Dirigidos** | [estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/estudo_dirigido_1.pdf) (16/04/2023) <br> [estudo_dirigido_2.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/estudo_dirigido_2.pdf) (28/06/2023) |
-| ***HW*<sub>2</sub>** | [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/instrucoes.pdf) (06/07/2023) <br> [ERQ01_HW2_20230706.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/ERQ01_HW2_20230706.pdf) (11/05/2023) |
+| ***HW*<sub>2</sub>** | [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/instrucoes.pdf) (06/07/2023) <br> [ERQ01_HW2_20230706.pdf](https://github.com/aumpierre-unb/ERQ0120231/raw/main/ERQ01_HW2_20230706.pdf) (06/07/2023) |
 
 Copyright &copy; 2023 Alexandre Umpierre
 
