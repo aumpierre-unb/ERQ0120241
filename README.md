@@ -2,7 +2,7 @@
 
 ## Universidade de Brasília - Instituto de Química
 
-## [Plano de Ensino](https://github.com/aumpierre-unb/ERQ0120232/raw/main/ERQ0120232.pdf)
+## [Plano de Ensino](https://github.com/aumpierre-unb/ERQ0120232/raw/main/Plano_de_Ensino_Engenharia_de_Reatores_Quimicos_IQD0048T01_20232.pdf)
 
 ---
 
