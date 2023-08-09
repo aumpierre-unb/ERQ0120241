@@ -1,11 +1,9 @@
 # Engenharia de Reatores Químicos - IQD0048 - Turma T01
 
-## Universidade de Brasília - Instituto de Química
+## Universidade de Brasília - Instituto de Química - 2023/2
 
 <!--## [Plano de Ensino](https://github.com/aumpierre-unb/ERQ0120232/raw/main/Plano_de_Ensino_Engenharia_de_Reatores_Quimicos_IQD0048T01_20232.pdf)
 -->
-
----
 
 ### **Professor**
 
