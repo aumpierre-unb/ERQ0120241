@@ -29,9 +29,9 @@ De 25/08/2023 a 23/12/2023
 
 ---
 
-### **Atendimento aos alunos**
+### **Horário e local de atendimento aos alunos**
 
-Presencialmente, durante as aulas ou por agendamento, ou por email.
+24M34, IQD B1 53/3
 
 Nenhuma plataforma digital de comunicação será adotada.
 
