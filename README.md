@@ -25,7 +25,7 @@ De 25/08/2023 a 23/12/2023
 
 ### **Horário e local das aulas**
 
-35M34, BSA S BT 41/13
+35M34, BSA S BT 34/13
 
 ---
 
