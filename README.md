@@ -204,4 +204,4 @@ Copyright &copy; 2023 Alexandre Umpierre
 
 [https://aumpierre-unb.github.io/ERQ0120232/](https://aumpierre-unb.github.io/ERQ0120232/)
 
-![https://aumpierre-unb.github.io/ERQ0120232/](https://github.com/aumpierre-unb/ERQ0120232/raw/main/fig.png)
+![https://aumpierre-unb.github.io/ERQ0120232/](https://github.com/aumpierre-unb/ERQ0120232/raw/main/fig.png "https://aumpierre-unb.github.io/ERQ0120232/")
