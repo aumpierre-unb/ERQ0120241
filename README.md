@@ -117,7 +117,7 @@ Os trabalhos serão realizados de forma assíncrona, em horário extraclasse. Os
 
 Todas as avaliações serão corrigidas em uma escala de 0 a 10.
 
-A nota final é a soma de 30 % da média aritmética dos trabalhos e de 70 % da média aritmética dos testes.
+A nota final é a soma de 35 % da média aritmética dos trabalhos e de 65 % da média aritmética dos testes.
 
 O desenvolvimento das respostas é critério fundamental de avaliação, devendo estar direta e objetivamente relacionado à obtenção da resposta final e seguindo uma sequência lógica e consistente com os modelos aceitos pela literatura da área da disciplina. Afirmações não relacionadas ao desenvolvimento serão desconsideradas, independentemente de seus valores.
 
