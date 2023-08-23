@@ -203,3 +203,5 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 Copyright &copy; 2023 Alexandre Umpierre
 
 [https://aumpierre-unb.github.io/ERQ0120232/](https://aumpierre-unb.github.io/ERQ0120232/)
+
+![Plano de Ensino](https://github.com/aumpierre-unb/ERQ0120232/raw/main/fig.png "khkjh")
