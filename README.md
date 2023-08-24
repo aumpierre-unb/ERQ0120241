@@ -55,6 +55,8 @@ Eventuais listas de exercícios e estudos dirigido serão divulgados na página 
 
 ### **Programa**
 
+O conteúdo será dividido em quatro módulos:
+
 **Módulo 1 - Reatores Batelada**
 
 Balanço material (volume constante)
@@ -127,7 +129,7 @@ As avaliações realizadas de forma assíncrona devem, obrigatoriamente, ser ela
 
 [https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.odt](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.odt)
 
-e entregues em formato .pdf por apenas um dos autores, intituladas de acordo com o exemplo:
+e entregues em formato pdf por apenas um dos autores, intituladas de acordo com o exemplo:
 
 *ERQ_T01_20232_HW1_20231026_matriculasonumeros.pdf*
 
