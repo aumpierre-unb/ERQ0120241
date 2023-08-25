@@ -143,15 +143,15 @@ Não serão aceitos documentos em outros formatos nem links para repositórios e
 
 *T*<sub>1</sub> - 19/09/2023
 
-*T*<sub>2</sub> - 10/10/2023
+*T*<sub>2</sub> - 17/10/2023
 
-*HW*<sub>1</sub> - 19/10/2023
+*HW*<sub>1</sub> - 24/10/2023
 
 *T*<sub>3</sub> - 14/11/2023
 
 *T*<sub>4</sub> - 14/12/2023
 
-*HW*<sub>2</sub> - 21/12/2023
+*HW*<sub>2</sub> - 19/12/2023
 
 ---
 
