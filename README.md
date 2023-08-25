@@ -145,7 +145,7 @@ Não serão aceitos documentos em outros formatos nem links para repositórios e
 
 *T*<sub>2</sub> - 10/10/2023
 
-*HW*<sub>1</sub> - 26/10/2023
+*HW*<sub>1</sub> - 19/10/2023
 
 *T*<sub>3</sub> - 14/11/2023
 
