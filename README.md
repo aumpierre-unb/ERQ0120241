@@ -57,7 +57,7 @@ Eventuais listas de exercícios e estudos dirigido serão divulgados na página 
 
 O conteúdo será dividido em quatro módulos:
 
-**Módulo 1 - Reatores Batelada**
+#### Módulo 1 - Reatores Batelada
 
 Balanço material (volume constante)
 
@@ -67,7 +67,7 @@ Determinação da expressão da taxa de reação (volume constante)
 
 Balanço material (concentração constante)
 
-**Módulo 2 - Reatores Tubulares**
+#### Módulo 2 - Reatores Tubulares
 
 Balanços material e entálpico (meio incompressível)
 
@@ -81,7 +81,7 @@ Reator de leito empacotado
 
 Reator de leito fluidizado
 
-**Módulo 3 - Reatores de Tanque Agitado**
+#### Módulo 3 - Reatores de Tanque Agitado
 
 Balanços material e entálpico
 
@@ -91,7 +91,7 @@ Partida, parada e mudança de set-point
 
 Multiplicidade de estados estacionários
 
-**Módulo 4 - Desvios de Idealidade**
+#### Módulo 4 - Desvios de Idealidade
 
 Modelo de volume morto e by-pass
 
