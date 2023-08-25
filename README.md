@@ -99,7 +99,7 @@ Modelo de volume de troca
 
 Distribuição de tempo de residência
 
-Modelo de CSTR’s em série
+Modelo de CSTR's em série
 
 Modelo de segregação
 
