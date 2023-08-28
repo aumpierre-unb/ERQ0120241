@@ -18,7 +18,7 @@
 | | 12/10 | Feriado |
 | 11 | 17/10 | Teste *T*<sub>2</sub> |
 | 12 | 19/10 | Correção do *T*<sub>1</sub> <br> Correção do *T*<sub>2</sub> |
-| 13 | 24/10 | *HW*<sub>1</sub> (divulgado até às 23h59 de 18/10, prazo de entrega até às 23h59 de 19/10) |
+| 13 | 24/10 | *HW*<sub>1</sub> (divulgado até às 23h59 de 23/10, prazo de entrega até às 23h59 de 24/10) |
 | 14 | 26/10 | Correção do *HW*<sub>1</sub> |
 | 15 | 31/10 | CSTR: Balanço material |
 | | 02/11 | Feriado |
@@ -28,14 +28,14 @@
 | 19 | 16/11 | CSTR: Partida, parada e mudança de set-point (reação de primeira ordem) |
 | 20 | 21/11 | Desvios de idealidade: CSTR com volume morto e by-pass |
 | 21 | 23/11 | Desvios de idealidade: CSTR com volume de troca |
-| 22 | 28/11* | Distribuição de tempo de residência <br> Desvios de idealidade: CSTR’s em série |
+| 22 | 28/11* | Distribuição de tempo de residência <br> Desvios de idealidade: CSTR's em série |
 | 23 | 30/11 | Desvios de idealidade: Modelo de segregação |
 | 24 | 05/12 | Desvios de idealidade: Modelo de mistura total |
 | 25 | 07/12 | Desvios de idealidade: Modelo de dispersão |
 | 26 | | Estudo dirigido: <br> Desvios de idealidade: PFR com escoamento laminar |
 | 27 | 12/12 | Aula de dúvidas |
 | 28 | 14/12 | Teste *T*<sub>4</sub> |
-| 29 | 19/12 | Correção do *T*<sub>3</sub> <br> Correção do *T*<sub>4</sub> <br> *HW*<sub>2</sub> (divulgado até às 23h59 de 20/12, prazo de entrega até às 23h59 de 21/12) |
+| 29 | 19/12 | Correção do *T*<sub>3</sub> <br> Correção do *T*<sub>4</sub> <br> *HW*<sub>2</sub> (divulgado até às 23h59 de 19/12, prazo de entrega até às 23h59 de 20/12) |
 | 30 | 21/12 | Correção do *HW*<sub>2</sub> |
 
 \* 75 % do semestre.
