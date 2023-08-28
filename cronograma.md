@@ -1,4 +1,4 @@
-# ERQ 01 2023/2 - Cronograma/Agenda
+# Engenharia de Reatores Químicos - IQD0048 - Turma T01 - 2023/2
 
 | Aula | Data | Tópico/Atividade |
 | :--- | :--- | :--- |
