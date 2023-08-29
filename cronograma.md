@@ -38,4 +38,4 @@
 | 29 | 19/12 | Correção do *T*<sub>3</sub> <br> Correção do *T*<sub>4</sub> <br> *HW*<sub>2</sub> (divulgado até às 23h59 de 19/12, prazo de entrega até às 23h59 de 20/12) |
 | 30 | 21/12 | Correção do *HW*<sub>2</sub> |
 
-\* 75 % do semestre.
+\* 75 % do semestre
