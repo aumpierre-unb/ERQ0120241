@@ -190,6 +190,8 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 [estudo_dirigido_2.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/estudo_dirigido_2.pdf) (03/10/2023)
 
+[estudo_dirigido_3.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/estudo_dirigido_3.pdf) (04/10/2023)
+
 ---
 
 <!--### ***HW*<sub>2</sub>**
