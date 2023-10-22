@@ -194,14 +194,21 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 ---
 
-<!--### ***HW*<sub>2</sub>**
+### ***HW*<sub>1</sub>**
 
-[instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/instrucoes.pdf) (06/07/2023)
+* [ERQ01_HW1_20231020.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/ERQ01_HW1_20231024.pdf) (22/10/2023)
 
-[ERQ01_HW2_20230706_retificacao.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/ERQ01_HW2_20230706_retificacao.pdf) (08/07/2023) (para entregar até as 23h59 de 9/7)
+* A prova *HW*<sub>1</sub> deve ser entregue impreterivelmente até as 23h59 de 24/10/2023.
+
+* Leia e atenda as [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/instrucoes.pdf) (22/10/2023)
+
+* Observe a formatação dos *templates*
+
+* Os templates foram atalizados para a date da realização da *HW*<sub>1</sub>
+
+* Um [*template*](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.docx) adicional em formato docx foi dispnibilizado
 
 ---
--->
 
 Copyright &copy; 2023 Alexandre Umpierre
 
