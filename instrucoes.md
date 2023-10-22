@@ -2,44 +2,58 @@
 
 ## Critérios de Avaliação
 
-•	Fidelidade ao template (disponível na página da turma).
+* Fidelidade ao *template* (disponível na página da turma)
 
-•	Originalidade (avaliações com indícios de cópia receberão nota zero).
+* Originalidade (avaliações com indícios de cópia receberão nota zero)
 
-•	Pontualidade (a avaliação deve ser entregue no prazo estabelecido).
+* Pontualidade (a avaliação deve ser entregue no prazo estabelecido)
 
-•	Observação à norma culta da língua portuguesa, objetividade e consistência dos argumentos, clareza e qualidade de figuras, esquemas, equações químicas e matemáticas, tabelas etc.
+* Observação à norma culta da língua portuguesa
 
-•	Consistência e qualidade dos desenvolvimentos das questões.
+* Objetividade e consistência dos argumentos
+
+* Clareza e qualidade de figuras, esquemas, equações químicas e matemáticas, tabelas etc
+
+* Consistência no desenvolvimento das questões
 
 ## Observações
 
-•	Escreva seu texto sobre o template sem nenhuma edição de fontes e parágrafos e margens.
+* Escreva seu texto sobre o template sem **nenhuma edição** de fontes, parágrafos e tabulações.
 
-•	Todas as variáveis utilizadas devem ser descritas adequadamente no texto e todas (incluindo as letras gregas) as variáveis devem ser apresentadas em itálico.
+* Não utilize cores em textos, tabelas e equações.
 
-•	Não utilize nenhuma forma de destaque (como negrito, itálico, sublinhado, realce etc) para o corpo de texto (exceto para representação de variáveis, que devem ser escritas em itálico).
+* Não utilize planos de fundo.
 
-•	O documento deve ser integralmente em preto.
+* Não utilize nenhuma forma de destaque (negrito, itálico, sublinhado, realce com cores etc) para o corpo de texto (exceto para representação de variáveis, que devem ser escritas em itálico).
 
-•	Não utilize planos de fundo.
+* Todas as variáveis utilizadas devem ser descritas no texto e todas as variáveis (incluindo as letras gregas) devem ser apresentadas em itálico.
 
-•	Figuras, esquemas e tabelas devem ser todos referenciados no texto antes de sua apresentação.
+* Unidades devem ser escritas em face regular.
 
-## Instruções para Gráficos e Tabelas
+* Figuras, esquemas e tabelas devem ser referenciados no texto antes de sua apresentação.
 
-•	A clareza dos dados apresentados nas figuras e tabelas é de responsabilidade do autor.
+* Equações químicas devem ser escritas em observância às regras/normas da IUPAC.
 
-•	Gráficos devem ser apresentados como figuras.
+* Equações matemáticas devem ser escritas de forma a impedir interpretações equivocadas.
 
-•	Os eixos dos gráficos devem ser corretamente nomeados, as escalas devem ser adequadas para cada caso, e as legendas devem ser apresentadas no caption da figura ou na área do gráfico.
+## Instruções Adicionais para Gráficos e Tabelas
 
-•	Todas as figuras e tabelas devem ser numeradas e referenciadas no texto.
+* Todas as figuras e tabelas devem ser numeradas e referenciadas no texto.
 
-•	Traços e símbolos em figuras podem ser utilizados diferentes cores/padrões, desde que suficientemente diferentes entre si e claramente identificados nas respectivas legendas.
+* A clareza dos dados apresentados nas figuras e tabelas é de responsabilidade do autor.
+
+* Gráficos devem ser apresentados como figuras.
+
+* Os eixos dos gráficos devem ser corretamente nomeados
+
+* As escalas dos gráficos devem ser adequadas para cada caso
+
+* Legendas de gráficos devem ser apresentadas no **apenas no *caption*** da figura.
+
+* Linhas e símbolos de figuras podem ser apresentados em cores/padrões, desde que suficientemente diferentes entre si e claramente identificados nos respectivos *captions*.
 
 ## Template
 
-•	As áreas em amarelo devem ser substituídas pelo conteúdo correspondente.
+* As áreas em amarelo devem ser substituídas pelo conteúdo correspondente.
 
-•	As áreas em verde devem ser apagadas na versão final.
+* As áreas em verde devem ser apagadas na versão final.
