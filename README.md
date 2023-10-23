@@ -204,7 +204,7 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 * Observe a formatação dos *templates*
 
-* Os templates foram atalizados para a date da realização da *HW*<sub>1</sub>
+* Os templates foram atalizados para a data da realização da *HW*<sub>1</sub>
 
 * Um [*template*](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.docx) adicional em formato docx foi dispnibilizado
 
