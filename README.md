@@ -184,6 +184,10 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 ---
 -->
 
+### **Exercícios Porpostos**
+
+[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_1.pdf) (23/11/2023)
+
 ### **Estudos Dirigidos**
 
 [estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/estudo_dirigido_1.pdf) (31/08/2023)
@@ -194,7 +198,7 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 ---
 
-### ***HW*<sub>1</sub>**
+<!-- ### ***HW*<sub>1</sub>**
 
 * [ERQ01_HW1_20231024.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/ERQ01_HW1_20231024.pdf) (22/10/2023)
 
@@ -206,7 +210,7 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 * Os templates foram atalizados para a data da realização da *HW*<sub>1</sub>
 
-* Um [*template*](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.docx) adicional em formato docx foi dispnibilizado
+* Um [*template*](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.docx) adicional em formato docx foi dispnibilizado -->
 
 ---
 
