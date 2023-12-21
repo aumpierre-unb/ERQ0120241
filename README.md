@@ -200,7 +200,7 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 ---
 
-### ***HW*<sub>2</sub>**
+<!-- ### ***HW*<sub>2</sub>**
 
 * [ERQ01_HW2_20231219.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/ERQ01_HW2_20231219.pdf) (16/12/2023)
 
@@ -208,7 +208,7 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 * Leia e atenda as [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/instrucoes.pdf) (16/12/2023)
 
-<!-- * Observe a formatação dos *templates*
+* Observe a formatação dos *templates*
 
 * Os templates foram atalizados para a data da realização da *HW*<sub>2</sub>
 
