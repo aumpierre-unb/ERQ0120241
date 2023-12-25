@@ -1,8 +1,8 @@
-# Engenharia de Reatores Químicos - IQD0048 - Turma T01 - 2023/2
+# Engenharia de Reatores Químicos - IQD0048 - Turma T01 - 2024/1
 
 ## Universidade de Brasília - Instituto de Química
 
-<!--## [Plano de Ensino](https://github.com/aumpierre-unb/ERQ0120232/raw/main/Plano_de_Ensino_Engenharia_de_Reatores_Quimicos_IQD0048T01_20232.pdf)
+<!--## [Plano de Ensino](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Plano_de_Ensino_Engenharia_de_Reatores_Quimicos_IQD0048T01_20241.pdf)
 -->
 
 ### **Professor**
@@ -17,9 +17,9 @@ IQD B1 53/3
 
 ### **Período letivo**
 
-2023/2
+2024/1
 
-De 25/08/2023 a 23/12/2023
+De xx/xx/2024 a xx/xx/2024
 
 ---
 
@@ -125,13 +125,13 @@ O desenvolvimento das respostas é critério fundamental de avaliação, devendo
 
 As avaliações realizadas de forma assíncrona devem, obrigatoriamente, ser elaboradas sobre um dos *templates*
 
-[https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.doc](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.doc) ou
+[https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.doc](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.doc) ou
 
-[https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.odt](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.odt)
+[https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.odt](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.odt)
 
 e entregues em formato pdf por apenas um dos autores, intituladas de acordo com o exemplo:
 
-*ERQ_T01_20232_HW1_20231026_matriculasonumeros.pdf*
+*ERQ_T01_20241_HW1_20241026_matriculasonumeros.pdf*
 
 Não serão aceitos documentos em outros formatos nem links para repositórios em nuvem.
 
@@ -141,17 +141,17 @@ Não serão aceitos documentos em outros formatos nem links para repositórios e
 
 ### **Datas das Avaliações**
 
-*T*<sub>1</sub> - 19/09/2023
+*T*<sub>1</sub> - xx/xx/2024
 
-*T*<sub>2</sub> - 17/10/2023
+*T*<sub>2</sub> - xx/xx/2024
 
-*HW*<sub>1</sub> - 24/10/2023
+*HW*<sub>1</sub> - xx/xx/2024
 
-*T*<sub>3</sub> - 14/11/2023
+*T*<sub>3</sub> - xx/xx/2024
 
-*T*<sub>4</sub> - 14/12/2023
+*T*<sub>4</sub> - xx/xx/2024
 
-*HW*<sub>2</sub> - 19/12/2023
+*HW*<sub>2</sub> - xx/xx/2024
 
 ---
 
@@ -175,49 +175,26 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 <!--### **Exercícios Propostos**
 
-[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_1.pdf) (07/04/2023)
+[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/exercicios_propostos_1.pdf) (07/04/2024)-->
 
-[exercicios_propostos_2.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_2.pdf) (29/04/2023)
+<!--### **Estudos Dirigidos**
 
-[exercicios_propostos_3.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_3.pdf) (26/06/2023)
+[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/estudo_dirigido_1.pdf) (31/08/2024)-->
 
----
-
-
-### **Exercícios Porpostos**
-
-[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_1.pdf) (23/11/2023)
-
-[exercicios_propostos_2.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_2.pdf) (07/12/2023)
-
-### **Estudos Dirigidos**
-
-[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/estudo_dirigido_1.pdf) (31/08/2023)
-
-[estudo_dirigido_2.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/estudo_dirigido_2.pdf) (03/10/2023)
-
-[estudo_dirigido_3.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/estudo_dirigido_3.pdf) (04/10/2023)
-
----
--->
 <!-- ### ***HW*<sub>2</sub>**
 
-* [ERQ01_HW2_20231219.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/ERQ01_HW2_20231219.pdf) (16/12/2023)
+* [ERQ01_HW2_20241219.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/ERQ01_HW2_20241219.pdf) (16/12/2024)
 
-* A prova *HW*<sub>2</sub> deve ser entregue impreterivelmente até as 23h59 de 20/12/2023.
+* A prova *HW*<sub>2</sub> deve ser entregue impreterivelmente até as 23h59 de 20/12/2024.
 
-* Leia e atenda as [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/instrucoes.pdf) (16/12/2023)
+* Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/instrucoes.pdf) (16/12/2024)
 
-* Observe a formatação dos *templates*
-
-* Os templates foram atalizados para a data da realização da *HW*<sub>2</sub>
-
-* Um [*template*](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.docx) adicional em formato docx foi dispnibilizado -->
+* Observe a formatação dos *templates*-->
 
 ---
 
-Copyright &copy; 2023 Alexandre Umpierre
+Copyright &copy; 2024 Alexandre Umpierre
 
-[https://aumpierre-unb.github.io/ERQ0120232/](https://aumpierre-unb.github.io/ERQ0120232/)
+[https://aumpierre-unb.github.io/ERQ0120241/](https://aumpierre-unb.github.io/ERQ0120241/)
 
-![https://aumpierre-unb.github.io/ERQ0120232/](https://github.com/aumpierre-unb/ERQ0120232/raw/main/fig.png "https://aumpierre-unb.github.io/ERQ0120232/")
+![https://aumpierre-unb.github.io/ERQ0120241/](https://github.com/aumpierre-unb/ERQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/ERQ0120241/")
