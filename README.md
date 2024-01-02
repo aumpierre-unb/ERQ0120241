@@ -9,7 +9,7 @@
 
 Alexandre Umpierre
 
-IQD B1 53/3
+IQD BT 86/5
 
 <aumpierre@unb.br>
 
@@ -31,7 +31,7 @@ De xx/xx/2024 a xx/xx/2024
 
 ### **Horário e local de atendimento aos alunos**
 
-24M34, IQD B1 53/3
+24M34, IQD BT 86/5
 
 Nenhuma plataforma digital de comunicação será adotada.
 
