@@ -2,8 +2,7 @@
 
 ## Universidade de Brasília - Instituto de Química
 
-<!--## [Plano de Ensino](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Plano_de_Ensino_Engenharia_de_Reatores_Quimicos_IQD0048T01_20241.pdf)
--->
+<!-- ## [Plano de Ensino](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Plano_de_Ensino_Engenharia_de_Reatores_Quimicos_IQD0048T01_20241.pdf) -->
 
 ### **Professor**
 
@@ -19,7 +18,7 @@ IQD BT 86/5
 
 2024/1
 
-De xx/xx/2024 a xx/xx/2024
+De 18/03/2024 a 15/07/2024
 
 ---
 
@@ -31,7 +30,7 @@ De xx/xx/2024 a xx/xx/2024
 
 ### **Horário e local de atendimento aos alunos**
 
-24M34, IQD BT 86/5
+35T23, IQD BT 86/5
 
 Nenhuma plataforma digital de comunicação será adotada.
 
@@ -57,7 +56,7 @@ Eventuais listas de exercícios e estudos dirigido serão divulgados na página 
 
 O conteúdo será dividido em quatro módulos:
 
-#### Módulo 1 - Reatores Batelada
+#### **Módulo 1 - Reatores Batelada**
 
 Balanço material (volume constante)
 
@@ -67,7 +66,7 @@ Determinação da expressão da taxa de reação (volume constante)
 
 Balanço material (concentração constante)
 
-#### Módulo 2 - Reatores Tubulares
+#### **Módulo 2 - Reatores Tubulares**
 
 Balanços material e entálpico (meio incompressível)
 
@@ -81,7 +80,7 @@ Reator de leito empacotado
 
 Reator de leito fluidizado
 
-#### Módulo 3 - Reatores de Tanque Agitado
+#### **Módulo 3 - Reatores de Tanque Agitado**
 
 Balanços material e entálpico
 
@@ -91,23 +90,23 @@ Partida, parada e mudança de set-point
 
 Multiplicidade de estados estacionários
 
-#### Módulo 4 - Desvios de Idealidade
+#### **Módulo 4 - Desvios de Idealidade**
 
-Modelo de volume morto e by-pass
+Modelo de volume morto e *by-pass*
 
 Modelo de volume de troca
 
 Distribuição de tempo de residência
 
-Modelo de CSTR's em série
+Modelo de tanques em série
 
-Modelo de segregação
+Modelo de mistura mínima
 
-Modelo de mistura completa
+Modelo de mistura máxima
 
 Modelo de dispersão
 
-Modelo de PFR com regime laminar
+PFR com regime laminar
 
 ---
 
@@ -173,13 +172,13 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 ---
 
-<!--### **Exercícios Propostos**
+<!-- ### **Exercícios Propostos**
 
-[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/exercicios_propostos_1.pdf) (07/04/2024)-->
+[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/exercicios_propostos_1.pdf) (07/04/2024) -->
 
-<!--### **Estudos Dirigidos**
+<!-- ### **Estudos Dirigidos**
 
-[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/estudo_dirigido_1.pdf) (31/08/2024)-->
+[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/estudo_dirigido_1.pdf) (31/08/2024) -->
 
 <!-- ### ***HW*<sub>2</sub>**
 
@@ -189,7 +188,7 @@ Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford Univers
 
 * Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/instrucoes.pdf) (16/12/2024)
 
-* Observe a formatação dos *templates*-->
+* Observe a formatação dos *templates* -->
 
 ---
 
@@ -197,4 +196,4 @@ Copyright &copy; 2024 Alexandre Umpierre
 
 [https://aumpierre-unb.github.io/ERQ0120241/](https://aumpierre-unb.github.io/ERQ0120241/)
 
-![https://aumpierre-unb.github.io/ERQ0120241/](https://github.com/aumpierre-unb/ERQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/ERQ0120241/")
+<!-- ![https://aumpierre-unb.github.io/ERQ0120241/](https://github.com/aumpierre-unb/ERQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/ERQ0120241/") -->
