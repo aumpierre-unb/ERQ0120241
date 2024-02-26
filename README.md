@@ -34,7 +34,7 @@ De 18/03/2024 a 15/07/2024
 
 35T23, IQD BT 86/5
 
-Questionamentos quanto à matéria devem ser apresentados *presencialmente*.
+Questionamentos quanto à matéria devem ser apresentados *presencialmente*, durante as aulas ou nos horários de atendimento.
 
 O contato por email deve ser restrito à questões formais.
 
@@ -120,27 +120,13 @@ Ao longo do período serão realizadas quatro testes, *T*<sub>1</sub>, *T*<sub>2
 
 Os trabalhos serão realizados de forma assíncrona, em horário extraclasse. Os trabalhos podem ser resolvidos individualmente ou em duplas. O prazo para realização dos trabalhos é de 24 horas.
 
-Todas as avaliações serão corrigidas em uma escala de 0 a 10.
+As avaliações serão corrigidas em uma escala de 0 a 10.
 
 A nota final é a soma de 35 % da média aritmética dos trabalhos e de 65 % da média aritmética dos testes.
 
-O desenvolvimento das respostas é critério fundamental de avaliação, devendo estar direta e objetivamente relacionado à obtenção da resposta final e seguindo uma sequência lógica e consistente com os modelos aceitos pela literatura da área da disciplina. Afirmações não relacionadas ao desenvolvimento serão desconsideradas, independentemente de seus valores.
+As orientações descritas abaixo para resolução, redação e entrega das provas devem ser observadas com atenção.
 
-As avaliações realizadas de forma assíncrona devem, obrigatoriamente, ser elaboradas sobre um dos *templates*
-
-[https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.doc](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.doc) ou
-
-[https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.odt](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.odt)
-
-e entregues em formato pdf por apenas um dos autores, intituladas de acordo com o exemplo:
-
-*ERQ_T01_20241_HW1_20241026_matriculasonumeros.pdf*
-
-Não serão aceitos documentos em outros formatos nem links para repositórios em nuvem.
-
-*A inobservância dessas regras poderá incorrer em descontos nas notas das avaliações.*
-
----
+A inobservâncias dessas orientações implicará em desconto de nota.
 
 ### **Datas das Avaliações**
 
@@ -166,11 +152,11 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 #### **Orientações para os trabalhos *HW*<sub>1</sub> e *HW*<sub>2</sub>**:
 
-* Realizada individualmente ou em duplas, de forma assíncrona
+* Realizados individualmente ou em duplas, de forma assíncrona
 
-* Disponibilizada para download nesta página até xxxxx
+* O trabalho *HW*<sub>1</sub> será disponibilizado para download nesta página até xxxxx
 
-* Prazo de entrega até xxxxxx
+* Prazo de entrega do trabalho *HW*<sub>1</sub> é até xxxxxx
 
 * Arquivo entregue exclusivamente por email em formato pdf
 
@@ -190,7 +176,15 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
   [https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.odt](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.odt)
 
-* A transcrição dos códigos usados não será considerada parte da resposta em nenhuma hipótese. 
+#### **Orientações para os testes *T*<sub>1</sub>, *T*<sub>2</sub>, *T*<sub>3</sub> e *T*<sub>4</sub>**:
+
+* Realizados individualmente, de forma síncrona
+
+* Realizado sem qualquer forma de consulta
+
+* Prazo de entrega de uma hora
+
+* As questões serão de escolha simples ou múltipla ou discursivas
 
 ---
 
@@ -245,6 +239,8 @@ Além *observância às orientações e adequação das respostas*, como descrit
 *	Figuras, esquemas e tabelas devem ser todos referenciados no texto antes de sua apresentação.
 
 * A adequação à normas diferentes das aqui dispostas significam inadequação a estas normas.
+
+* A transcrição dos códigos usados não será considerada parte da resposta em nenhuma hipótese. 
 
 ### Orientações para apresentação de gráficos e tabelas
 
