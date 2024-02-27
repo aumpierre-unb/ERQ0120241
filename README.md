@@ -1,10 +1,8 @@
 # Universidade de Brasília - Instituto de Química
 
-### Engenharia de Reatores Químicos - IQD0048
+### Universidade de Brasília - Instituto de Química
 
-### 2024/1 - Turma T01
-
-## Plano de Ensino
+## **Plano de Ensino**
 
 ### **Professor**
 
@@ -14,21 +12,15 @@ IQD BT 86/5
 
 <aumpierre@unb.br>
 
----
-
 ### **Período letivo**
 
 2024/1
 
 De 18/03/2024 a 15/07/2024
 
----
-
 ### **Horário e local das aulas**
 
 35M34, BSA S BT 34/13
-
----
 
 ### **Horário e local de atendimento aos alunos**
 
@@ -38,13 +30,9 @@ Questionamentos quanto à matéria devem ser apresentados *presencialmente*, dur
 
 O contato por email deve ser restrito à questões formais.
 
----
-
 ### **Objetivo**
 
 Apresentar os fundamentos da engenharia de reatores químicos, com ênfase em elementos de cinética química, balanços de massa e energia, reatores ideais e desvios de idealidade.
-
----
 
 ### **Metodologia**
 
@@ -53,8 +41,6 @@ Aulas expositivas com exemplos e exercícios.
 Listas de exercícios e estudos dirigido, quando houver, serão divulgados na página da disciplina.
 
 *Não são autorizados registros fotográficos do conteúdo ministrado das aulas.*
-
----
 
 ### **Programa**
 
@@ -111,8 +97,6 @@ O conteúdo será dividido em quatro módulos:
 * Modelo de dispersão
 
 * PFR com regime laminar
-
----
 
 ### **Avaliação**
 
@@ -186,8 +170,6 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * As questões serão de escolha simples ou múltipla ou discursivas
 
----
-
 ### **Bibliografia**
 
 #### **Bibliografia básica**
@@ -256,8 +238,6 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 <div style="page-break-after: always"></div>
 
----
-
 <!-- ### **Exercícios propostos**
 
 [exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/exercicios_propostos_1.pdf) (07/04/2024) -->
@@ -275,8 +255,6 @@ Além *observância às orientações e adequação das respostas*, como descrit
 * Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/instrucoes.pdf) (16/12/2024)
 
 * Observe a formatação dos *templates* -->
-
----
 
 Copyright &copy; 2024 Alexandre Umpierre
 
