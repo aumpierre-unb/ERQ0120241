@@ -1,4 +1,4 @@
-# Universidade de Brasília - Instituto de Química
+# Engenharia de Reatores Químicos - IQD0048 - Turma T01
 
 ### Universidade de Brasília - Instituto de Química
 
@@ -118,13 +118,13 @@ A inobservâncias dessas orientações implicará em desconto de nota.
 
 * *T*<sub>2</sub> - xx/xx/2024
 
-* *HW*<sub>1</sub> - xx/xx/2024
+* *HW*<sub>1</sub> - Disponibilizado até xx/xx/2024 e entregue até xx/xx/2024
 
 * *T*<sub>3</sub> - xx/xx/2024
 
 * *T*<sub>4</sub> - xx/xx/2024
 
-* *HW*<sub>2</sub> - xx/xx/2024
+* *HW*<sub>2</sub> - Disponibilizado até xx/xx/2024 e entregue até xx/xx/2024
 
 #### **Critétrios de avaliação**
 
@@ -138,21 +138,19 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * Realizados individualmente ou em duplas, de forma assíncrona
 
-* O trabalho *HW*<sub>1</sub> será disponibilizado para download nesta página até xxxxx
+* Os trabalhos *HW*<sub>1</sub> e *HW*<sub>2</sub> serão disponibilizados para download nesta página
 
-* Prazo de entrega do trabalho *HW*<sub>1</sub> é até xxxxxx
+* O arquivo de resolução deve ser entregue exclusivamente por email em formato pdf
 
-* Arquivo entregue exclusivamente por email em formato pdf
-
-* O arquivo deve ser identificado com nomes e matrículas dos autores e nomeado de acordo com o exemplo:
+* O arquivo de resolução deve ser identificado com nomes e matrículas dos autores e nomeado de acordo com o exemplo:
 
   *ERQ_T01_20241_HW1_yyyymmdd_matriculasonumeros.pdf*
 
 * Não serão aceitos links para repositórios em nuvem
 
-* Documento redigido de acordo com as *instruções para elaboração de avaliações extraclasse*, descritas neste documento
+* O arquivo de resolução deve ser redigido de acordo com as *instruções para elaboração de avaliações extraclasse*, descritas neste documento
 
-* Documento redigido sobre um dos *templates* disponíveis para download:
+* O arquivo de resolução deve ser redigido sobre um dos *templates* disponíveis para download:
 
   [https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.doc](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.doc)
 
