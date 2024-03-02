@@ -138,9 +138,9 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * Realizados individualmente ou em duplas, de forma assíncrona
 
-* Os tabalhos podem ser realizados com auxílio de quaisquer simuladores e rotinas de programação
+* Podem ser realizados com auxílio de quaisquer simuladores e rotinas de programação
 
-* Os trabalhos *HW*<sub>1</sub> e *HW*<sub>2</sub> serão disponibilizados para download nesta página
+* Disponibilizados para download nesta página
 
 * O arquivo de resolução deve ser entregue exclusivamente por email em formato pdf
 
@@ -152,7 +152,7 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * O arquivo de resolução deve ser redigido de acordo com as *instruções para elaboração de avaliações extraclasse*, descritas neste documento
 
-* O arquivo de resolução deve ser redigido sobre um dos *templates* disponíveis para download:
+* O arquivo de resolução deve ser redigido sobre um dos *templates* (disponíveis para download):
 
   [https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.doc](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.doc)
 
