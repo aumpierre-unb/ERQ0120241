@@ -14,7 +14,7 @@
 | 10 | 18/04 | PFR: Balanço material (meio compressível) |
 | 11 | 23/04 | Aula de dúvidas |
 | 12 | 25/04 | Teste *T*<sub>2</sub> |
-| 13 | 30/04 | Correção do teste *T*<sub>1</sub> <br> Correção do teste *T*<sub>2</sub> <br> Trabalho *HW*<sub>1</sub> (divulgado até às 23h59 de 30/04, prazo de entrega até às 23h59 de 02/05) |
+| 13 | 30/04 | Correção do teste *T*<sub>1</sub> <br> Correção do teste *T*<sub>2</sub> <br> Disponibilização do trabalho *HW*<sub>1</sub> (até às 23h59 de 30/04, prazo de entrega até às 23h59 de 02/05) |
 | 14 | 02/05 | Elaboração do trabalho *HW*<sub>1</sub> |
 | 15 | 07/05 | Correção do trabalho *HW*<sub>1</sub> |
 | 16 | 09/05 | CSTR: Balanço material <br> CSTR: Balanço entálpico <br> CSTR: Multiplicidade de estados estacionários |
@@ -32,7 +32,7 @@
 | 27 | 20/06 | Estudo dirigido <br> Desvios de idealidade: PFR com regime laminar |
 | 28 | 25/06 | Aula de dúvidas |
 | 29 | 27/06 | Teste *T*<sub>4</sub> |
-| 30 | 02/07 | Correção do teste *T*<sub>3</sub> <br> Correção do teste *T*<sub>4</sub> <br> Trabalho *HW*<sub>2</sub> (divulgado até às 23h59 de 02/07, prazo de entrega até às 23h59 de 04/07) |
+| 30 | 02/07 | Correção do teste *T*<sub>3</sub> <br> Correção do teste *T*<sub>4</sub> <br> Disponibilização do trabalho *HW*<sub>2</sub> (até às 23h59 de 02/07, prazo de entrega até às 23h59 de 04/07) |
 | 31 | 04/07 | Elaboração do trabalho *HW*<sub>2</sub> |
 | 32 | 09/07 | Correção do trabalho *HW*<sub>2</sub> |
 | 33 | 11/07 | Revisão de notas <br> Prova substitutiva |
