@@ -112,6 +112,8 @@ As orientações descritas abaixo para resolução, redação e entrega das prov
 
 A inobservâncias dessas orientações implicará em desconto de nota.
 
+A avaliação substitutiva, se cabível, será aplicada com os mesmos critérios e regras da avaliação a ser substituída.
+
 ### **Datas das Avaliações**
 
 * *T*<sub>1</sub> - xx/xx/2024
@@ -125,6 +127,8 @@ A inobservâncias dessas orientações implicará em desconto de nota.
 * *T*<sub>4</sub> - xx/xx/2024
 
 * *HW*<sub>2</sub> - Disponibilizado até xx/xx/2024 e entregue até xx/xx/2024
+
+* Prova substitutiva - xx/xx/2024
 
 #### **Critétrios de avaliação**
 
