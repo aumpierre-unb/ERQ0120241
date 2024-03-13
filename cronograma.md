@@ -1,12 +1,12 @@
-# Engenharia de Reatores Químicos - IQD0048 - Turma T01 - 2023/2
+# Engenharia de Reatores Químicos - IQD0048 - Turma T01 - 2024/1
 
 | Aula | Data | Tópico/Atividade |
 | :--- | :--- | :--- |
-| 1 | 19/03 | Plano de Ensino <br> BSTR: Balanço material (volume constante) |
-| 2 | 21/03 | BSTR: Balanço entálpico (volume constante) |
-| 3 | 26/03 | Estudo dirigido <br> BSTR: Determinação da expressão da taxa de reação (volume constante) <br> BSTR: Alguns mecanismos reacionais selecionados (volume constante) |
-| 4 | 28/03 |  |
-| 5 | 02/04 | BSTR: Balanço material (concentração constante) |
+| 1 | 19/03 | Plano de Ensino |
+| 2 | 21/03 | BSTR: Balanço material (volume constante) |
+| 3 | 26/03 | BSTR: Balanço entálpico (volume constante) |
+| 4 | 28/03 | BSTR: Balanço material (concentração constante) |
+| 5 | 02/04 | Estudo dirigido <br> BSTR: Determinação da expressão da taxa de reação (volume constante) <br> BSTR: Alguns mecanismos reacionais selecionados (volume constante) |
 | 6 | 04/04 | Aula de dúvidas |
 | 7 | 09/04 | Teste *T*<sub>1</sub> |
 | 8 | 11/04 | PFR: Balanço material (meio incompressível) |
@@ -41,4 +41,4 @@
 
 \** 15/06 - 75 % do semestre
 
-\** 15/07 - Término do semestre
+\*** 15/07 - Término do semestre
