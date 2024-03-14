@@ -20,7 +20,7 @@ De 18/03/2024 a 15/07/2024
 
 ### **Horário e local das aulas**
 
-35M34, BSA S BT 34/13
+35M34, BSA S B2 54/13
 
 ### **Horário e local de atendimento aos alunos**
 
