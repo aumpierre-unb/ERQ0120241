@@ -35,7 +35,7 @@
 | 30 | 02/07 | Correção do teste *T*<sub>3</sub> <br> Correção do teste *T*<sub>4</sub> <br> Disponibilização do trabalho *HW*<sub>2</sub> (até às 23h59 de 02/07, prazo de entrega até às 23h59 de 04/07) |
 | 31 | 04/07 | Elaboração do trabalho *HW*<sub>2</sub> |
 | 32 | 09/07 | Correção do trabalho *HW*<sub>2</sub> |
-| 33 | 11/07 | Revisão de notas <br> Prova substitutiva |
+| 33 | 11/07 | Revisão de notas <br> Avaliação substitutiva |
 
 \* 16/04 - 25 % do semestre
 
