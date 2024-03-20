@@ -260,8 +260,6 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 Copyright &copy; 2024 Alexandre Umpierre
 
-[https://aumpierre-unb.github.io/ERQ0120241/](https://aumpierre-unb.github.io/ERQ0120241/)
-
-<!-- ![https://aumpierre-unb.github.io/ERQ0120241/](https://github.com/aumpierre-unb/ERQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/ERQ0120241/") -->
+[https://github.com/aumpierre-unb/ERQ0120241](https://github.com/aumpierre-unb/ERQ0120241)
 
 ![https://aumpierre-unb.github.io/ERQ0120241/](qrcode.png "https://aumpierre-unb.github.io/ERQ0120241/")
