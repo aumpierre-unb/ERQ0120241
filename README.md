@@ -244,9 +244,9 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 [exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/exercicios_propostos_1.pdf) (07/04/2024) -->
 
-<!-- ### **Estudos dirigidos**
+### **Estudos dirigidos**
 
-[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/estudo_dirigido_1.pdf) (31/08/2024) -->
+[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/estudo_dirigido_1.pdf) (02/04/2024)
 
 <!-- ### ***HW*<sub>2</sub>**
 
