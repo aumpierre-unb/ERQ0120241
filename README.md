@@ -248,15 +248,17 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 [estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/estudo_dirigido_1.pdf) (02/04/2024)
 
-<!-- ### ***HW*<sub>2</sub>**
+<!-- ### ***HW*<sub>1</sub>**
 
-* [ERQ01_HW2_20241219.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/ERQ01_HW2_20241219.pdf) (16/12/2024)
+* [ERQ01_HW2_20241219.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/ERQ01_HW1_2024xxxx.pdf) (xx/xx/2024)
 
-* A prova *HW*<sub>2</sub> deve ser entregue impreterivelmente até as 23h59 de 20/12/2024.
+* A prova *HW*<sub>1</sub> deve ser entregue impreterivelmente até as 23h59 de xx/xx/2024.
 
-* Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/instrucoes.pdf) (16/12/2024)
+* Leia atentamente e atenda às *Instruções para Redação dos Trabalhos Extraclasse* dispostas no plano de ensino.
 
-* Observe a formatação dos *templates* -->
+* Observe a formatação dos *templates*.
+
+* Eventuais alterações serão dispostas nesta sessão da página e comunicadas através do email institucional. -->
 
 Copyright &copy; 2024 Alexandre Umpierre
 
