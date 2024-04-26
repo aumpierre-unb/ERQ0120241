@@ -246,7 +246,7 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 ### **Estudos dirigidos**
 
-[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/estudo_dirigido_1.pdf) (02/04/2024)
+[Estudo_Dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Estudo_Dirigido_1.pdf) (02/04/2024)
 
 <!-- ### ***HW*<sub>1</sub>**
 
@@ -262,6 +262,6 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 Copyright &copy; 2024 Alexandre Umpierre
 
-[https://github.com/aumpierre-unb/ERQ0120241](https://github.com/aumpierre-unb/ERQ0120241)
+[Plano_de_Ensino_ERQ_20241_T01.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Plano_de_Ensino_ERQ_20241_T01.pdf)
 
-![https://aumpierre-unb.github.io/ERQ0120241/](qrcode.png "https://aumpierre-unb.github.io/ERQ0120241/")
+![Plano_de_Ensino_ERQ_20241_T01.pdf](qrcode.png "https://github.com/aumpierre-unb/ERQ0120241/raw/main/Plano_de_Ensino_ERQ_20241_T01.pdf")
