@@ -114,7 +114,7 @@ A inobservâncias dessas orientações implicará em desconto de nota.
 
 A avaliação substitutiva, se cabível, será aplicada com os mesmos critérios e regras da avaliação a ser substituída.
 
-#### **Datas das avaliações (atualizadas)**
+#### **Datas das avaliações (aguardando confirmação)**
 
 * *T*<sub>1</sub> - 09/04/2024
 
