@@ -264,4 +264,6 @@ Copyright &copy; 2024 Alexandre Umpierre
 
 [Plano_de_Ensino_ERQ_20241_T01.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Plano_de_Ensino_ERQ_20241_T01.pdf)
 
-![Plano_de_Ensino_ERQ_20241_T01.pdf](qrcode.png "https://github.com/aumpierre-unb/ERQ0120241/raw/main/Plano_de_Ensino_ERQ_20241_T01.pdf")
+[Plano_de_Ensino_ERQ_20241_T01_atualizado.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Plano_de_Ensino_ERQ_20241_T01_atualizado.pdf)
+
+<!-- ![Plano_de_Ensino_ERQ_20241_T01.pdf](qrcode.png "https://github.com/aumpierre-unb/ERQ0120241/raw/main/Plano_de_Ensino_ERQ_20241_T01.pdf") -->
