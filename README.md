@@ -114,19 +114,19 @@ A inobservâncias dessas orientações implicará em desconto de nota.
 
 A avaliação substitutiva, se cabível, será aplicada com os mesmos critérios e regras da avaliação a ser substituída.
 
-#### **Datas das avaliações (aguardando confirmação)**
+#### **Datas das avaliações**
 
 * *T*<sub>1</sub> - 09/04/2024
 
 * *T*<sub>2</sub> - <strike>25/04/2024</strike> 09/07/2024
 
-* *HW*<sub>1</sub> - Disponibilizado na página da disciplina até às 23h59 de <strike>30/04</strike> 11/07/2024, entregue até às 23h59 de <strike>02/05</strike> 13/07/2024
+* *HW*<sub>1</sub> - Disponibilizado na página da disciplina até às 23h59 de <strike>30/04</strike> 12/07/2024, entregue até às 23h59 de <strike>02/05</strike> 14/07/2024
 
 * *T*<sub>3</sub> - <strike>21/05/2024</strike> 01/08/2024
 
-* *T*<sub>4</sub> - <strike>27/06/2024</strike> 05/09/2024
+* *T*<sub>4</sub> - <strike>27/06/2024</strike> 10/09/2024
 
-* *HW*<sub>2</sub> - Disponibilizado na página da disciplina até às 23h59 de <strike>02/07</strike> 10/09/2024, entregue até às 23h59 de <strike>04/07</strike> 12/09/2024
+* *HW*<sub>2</sub> - Disponibilizado na página da disciplina até às 23h59 de <strike>02/07</strike> 12/09/2024, entregue até às 23h59 de <strike>04/07</strike> 14/09/2024
 
 * Avaliação substitutiva - <strike>11/07/2024</strike> 19/09/2024
 
