@@ -264,7 +264,7 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 * A prova *HW*<sub>1</sub> deve ser entregue impreterivelmente até as 23h59 de 14/07/2024.
 
-* Leia atentamente e atenda às *Instruções para Redação dos Trabalhos Extraclasse* dispostas no plano de ensino.
+* Leia atentamente e atenda às *Instruções para Redação dos Trabalhos Extraclasse* dispostas no Plano de Ensino.
 
 * Observe a formatação dos *templates*.
 
