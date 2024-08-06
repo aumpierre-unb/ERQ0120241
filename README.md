@@ -249,9 +249,9 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 *	Traços e símbolos em figuras podem ser utilizados diferentes cores/padrões, desde que suficientemente diferentes entre si e claramente identificados em seus respectivos *captions*.
 
-<!-- ### **Exercícios propostos**
+### **Exercícios propostos**
 
-[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/exercicios_propostos_1.pdf) (07/04/2024) -->
+* [Exercicios_Propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Exercicios_Propostos_1.pdf) (06/08/2024)
 
 ### **Estudos dirigidos**
 
