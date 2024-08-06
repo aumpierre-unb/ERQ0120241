@@ -257,9 +257,9 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 * [Estudo_Dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Estudo_Dirigido_1.pdf) (02/04/2024)
 
-* [Estudo_Dirigido_2.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Estudo_Dirigido_2.pdf) (24/07/2024)
+<!-- * [Estudo_Dirigido_2.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Estudo_Dirigido_2.pdf) (24/07/2024) -->
 
-* [Estudo_Dirigido_2_atualizado.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Estudo_Dirigido_2_atualizado.pdf) (26/07/2024)
+* [Estudo_Dirigido_2_atualizado.pdf](https://github.com/aumpierre-unb/ERQ0120241/raw/main/Estudo_Dirigido_2_atualizado.pdf) (31/07/2024)
 
 <!--### ***HW*<sub>1</sub>**
 
