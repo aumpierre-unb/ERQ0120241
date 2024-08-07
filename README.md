@@ -170,8 +170,7 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
   [https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.odt](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.odt)
 
-  <!-- [https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.tex](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.tex) 
-$\LaTeX$ -->
+  <!-- [https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.tex](https://github.com/aumpierre-unb/ERQ0120241/raw/main/template_ERQ.tex) -->
 
 #### **Orientações para os testes *T*<sub>1</sub>, *T*<sub>2</sub>, *T*<sub>3</sub> e *T*<sub>4</sub>**:
 
